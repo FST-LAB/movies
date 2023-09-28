@@ -15,12 +15,12 @@ body{
     margin-right: 25px;
     margin-left: 15px;
     margin-top: 25px;
-    border-radius: 20px;
+    -o-border-radius: 20px;
     float:left;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     -ms-border-radius: 20px;
-    -o-border-radius: 20px;
+    border-radius: 20px;
 }
 #moviedesc{
     font-family: 'Times New Roman', Times, serif;
